@@ -7,3 +7,6 @@
 </ol>
 <br />
 <p>⚠️ This script has no impact on performance, collects no sensitive data, and can be removed at any time.</p>
+
+<h4>How to use ?</h4>
+<p>Go to https://fpsmeter.esport-cms.net</p>
